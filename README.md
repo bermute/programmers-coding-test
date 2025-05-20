@@ -1,1 +1,10 @@
-# programmers-coding-test
+# 📘 프로그래머스 문제 풀이 저장소
+
+프로그래머스에서 푼 문제들을 정리한 저장소입니다.
+
+## ✅ 해시
+
+### 1. [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
+- **문제 설명**: 참가자 중 한 명이 완주하지 못했을 때, 그 사람을 찾아 반환하는 문제
+- **사용 알고리즘**: 해시 (HashMap)
+- **코드 경로**: [`programmers/해시/완주하지 못한 선수/Solution.java`](./programmers/해시/완주하지 못한 선수/Solution.java)

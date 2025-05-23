@@ -17,7 +17,7 @@
 코드 경로: programmers/해시/폰켓몬/Solution.java
 
 
-### 3. [전화번호 목](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
+### 3. [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
 - **문제 설명**: 참가자 중 한 명이 완주하지 못했을 때, 그 사람을 찾아 반환하는 문제
 - **사용 알고리즘**: 정렬
 - **코드 경로**: [`programmers/해시/전화번호 목록/Solution.java`](./programmers/해시/전화번호 목록/Solution.java)
